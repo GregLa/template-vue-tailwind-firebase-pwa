@@ -5,9 +5,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <dotlottie-player src="https://lottie.host/272b60dd-462d-42a3-8ed6-fec4143633d6/X4FxBascRI.json"
+    <lottie-player src="https://lottie.host/63d5b1a8-6e42-424f-a9c4-ceb3d5a8b093/DFl0MAin6p.json"
       background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" mode="normal"
-      autoplay></dotlottie-player>
+      autoplay loop></lottie-player>
   </header>
 
   <RouterView />
